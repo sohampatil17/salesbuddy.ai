@@ -1,5 +1,7 @@
 ## Find Leads, Call Clients & Schedule Meetings w AI 🔮🤖
 <br>
+<img width="1165" alt="Screenshot 2024-07-08 at 9 31 48 PM" src="https://github.com/sohampatil17/salesbuddy.ai/assets/66875241/f6801500-3fda-4a6c-b81b-41e6eaf67be1">
+
 
 ## 💡 Inspiration
 Sales processes can be incredibly time-consuming and complex. Sales teams often juggle multiple tasks like lead generation, client communication, and meeting scheduling. We were inspired by the need to streamline these tasks using AI, making the entire process more efficient and less tedious. Imagine having a smart buddy that can handle all your sales tasks effortlessly! 💡✨
